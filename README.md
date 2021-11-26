@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# GL Graph
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+GL Graph is a small personal project for learning purposes, it's a visual scripting web app created with React(Typescript) based on the GLSL shader language
+
+# Some Images
+![Engine Image](https://github.com/rheemcode/gl-graph/tree/main/images/screenshot2.png)
+![Engine Image](https://github.com/rheemcode/gl-graph/tree/main/images/screenshot1.png)
 
 ## Available Scripts
 
