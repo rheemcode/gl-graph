@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gl-graph/static/css/main.f6383643.chunk.css",
+    "main.js": "/gl-graph/static/js/main.bb77470b.chunk.js",
+    "main.js.map": "/gl-graph/static/js/main.bb77470b.chunk.js.map",
+    "runtime-main.js": "/gl-graph/static/js/runtime-main.b0cab69f.js",
+    "runtime-main.js.map": "/gl-graph/static/js/runtime-main.b0cab69f.js.map",
+    "static/js/2.b9135fc2.chunk.js": "/gl-graph/static/js/2.b9135fc2.chunk.js",
+    "static/js/2.b9135fc2.chunk.js.map": "/gl-graph/static/js/2.b9135fc2.chunk.js.map",
+    "static/js/3.a2972149.chunk.js": "/gl-graph/static/js/3.a2972149.chunk.js",
+    "static/js/3.a2972149.chunk.js.map": "/gl-graph/static/js/3.a2972149.chunk.js.map",
+    "index.html": "/gl-graph/index.html",
+    "static/css/main.f6383643.chunk.css.map": "/gl-graph/static/css/main.f6383643.chunk.css.map",
+    "static/js/2.b9135fc2.chunk.js.LICENSE.txt": "/gl-graph/static/js/2.b9135fc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0cab69f.js",
+    "static/js/2.b9135fc2.chunk.js",
+    "static/css/main.f6383643.chunk.css",
+    "static/js/main.bb77470b.chunk.js"
+  ]
+}
